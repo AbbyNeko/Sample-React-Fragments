@@ -8,7 +8,7 @@ function App() {
       "How long does it take for rocks to respawn?",
       "Give me an example of a bug that sells for a lot of bells.",
       "Is Nook a crook?",
-      "How do you obtain start fragments?"
+      "How do you obtain star fragments?"
   ];
 
   return (
